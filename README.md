@@ -1,6 +1,6 @@
 # ❤️ Heart Stroke Prediction Project  
 
-This is my **final year project** where I built a **Machine Learning model** to predict the chances of heart stroke.  
+This is my **project** where I built a **Machine Learning model** to predict the chances of heart stroke.  
 I also created a simple frontend using **Streamlit** for user interaction.  
 
 ## 👩‍💻 About Me  
@@ -19,6 +19,7 @@ streamlit run app.py
 
 ---
 ✨ This project is for educational purposes and demonstrates how ML can be applied to healthcare.
+
 
 
 
