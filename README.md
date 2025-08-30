@@ -17,8 +17,13 @@ I also created a simple frontend using **Streamlit** for user interaction.
 pip install -r requirements.txt
 streamlit run app.py
 
+## 🌐Live Demo
+Try the app here
+https://heart-stroke-prediction-a4febybhhiu8e4ayzw4xyf.streamlit.app/
+
 ---
 ✨ This project is for educational purposes and demonstrates how ML can be applied to healthcare.
+
 
 
 
