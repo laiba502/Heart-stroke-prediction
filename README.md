@@ -1,2 +1,24 @@
-# Heart-stroke-prediction
-A machine learning  and streamlit app that predicts heart stroke risk based on user input.
+# ❤️ Heart Stroke Prediction Project  
+
+This is my **final year project** where I built a **Machine Learning model** to predict the chances of heart stroke.  
+I also created a simple frontend using **Streamlit** for user interaction.  
+
+## 👩‍💻 About Me  
+**Created by:** Laiba Farid  
+
+## 📂 Project Files  
+- `app.py` → Streamlit app code  
+- `columns.pkl` → Saved column transformer  
+- `knnheartdisease.pkl` → Trained KNN model  
+- `scaler.pkl` → Standard scaler used in preprocessing  
+
+## 🚀 How to Run  
+1. Install requirements using:  
+pip install -r requirements.txt
+streamlit run app.py
+
+---
+✨ This project is for educational purposes and demonstrates how ML can be applied to healthcare.
+
+
+
